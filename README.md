@@ -20,7 +20,7 @@ I'm a final-year Software Engineering student at **Haliç University**, deeply p
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,typescript,css,html,docker,js,git" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,css,html,docker,git" />
     <img src="https://skillicons.dev/icons?i=sklearn,python,redis,pytorch,firebase,cpp,tensorflow,cmake" /><br>
 </div>
 
