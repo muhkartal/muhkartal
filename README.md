@@ -5,7 +5,7 @@
 
 **`Software Engineer | AI Enthusiast | Machine Learning Developer`**
 
-I'm a final-year Software Engineering student at **Haliç University**, specializing in **Machine Learning**, **Artificial Intelligence**, and **Computer Vision**. With a strong background in AI development and project leadership.
+I'm a final-year Software Engineering student at **Haliç University**, deeply passionate about exploring the endless possibilities of **Machine Learning**, **Artificial Intelligence**, and **Computer Vision**. Over the years, I've honed my skills in AI development, learning how to turn raw data into meaningful, actionable insights. 
 
 ---
 
@@ -20,8 +20,8 @@ I'm a final-year Software Engineering student at **Haliç University**, speciali
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,js,typescript,css,html,docker,js,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=keras,python,redis,,express,firebase,cpp,tensorflow,numpy,pandas,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=js,typescript,css,html,docker,js,git" />
+    <img src="https://skillicons.dev/icons?i=sklearn,python,redis,pytorch,firebase,cpp,tensorflow,cmake" /><br>
 </div>
 
 
