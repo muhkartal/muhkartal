@@ -3,6 +3,7 @@
 # 👋 Welcome! I'm **Muhammed Ibrahim Kartal**
 
 **`Software Engineer | AI Enthusiast | Machine Learning Developer`**
+<img src="main.png" alt="Energy Prediction System" width="100%"/>
 
 I'm a final-year Software Engineering student at **Haliç University**, deeply passionate about exploring the endless possibilities of **Machine Learning**, **Artificial Intelligence**, and **Computer Vision**. Over the years, I've honed my skills in AI development, learning how to turn raw data into meaningful, actionable insights. 
 
