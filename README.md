@@ -7,7 +7,12 @@
 
 **`Software Engineer | AI Enthusiast | Machine Learning Developer`**
 </div>
-I'm a final-year Software Engineering student at **Haliç University**, deeply passionate about exploring the endless possibilities of **Machine Learning**, **Artificial Intelligence**, and **Computer Vision**. Over the years, I've honed my skills in AI development, learning how to turn raw data into meaningful, actionable insights. 
+
+Building intelligent systems with Machine Learning and Deep Learning, with a strong interest in Computer Vision applications. I develop software tools using Python, C#, and JavaScript to improve daily life. My GitHub features projects in ML/DL (TensorFlow, PyTorch), Computer Vision (OpenCV), and various software applications (Streamlit, Flask). Currently learning MLOps, real-time object detection, and scalable AI.
+
+Explore my repositories to see my work!
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/muhammed-ibrahim-kartal/
 
 ---
 
