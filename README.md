@@ -10,9 +10,6 @@
 
 Building intelligent systems with Machine Learning and Deep Learning, with a strong interest in Computer Vision applications. I develop software tools using Python, C#, and JavaScript to improve daily life. My GitHub features projects in ML/DL (TensorFlow, PyTorch), Computer Vision (OpenCV), and various software applications (Streamlit, Flask). Currently learning MLOps, real-time object detection, and scalable AI.
 
-Explore my repositories to see my work!
-
-Connect with me on LinkedIn: https://www.linkedin.com/in/muhammed-ibrahim-kartal/
 
 ---
 
