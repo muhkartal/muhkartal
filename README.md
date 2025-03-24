@@ -1,6 +1,5 @@
 
 
-# 👋 Welcome! I'm **Muhammed Ibrahim Kartal**
 
 **`Software Engineer | AI Enthusiast | Machine Learning Developer`**
 <img src="main.png" alt="Energy Prediction System" width="100%"/>
