@@ -2,7 +2,7 @@
 
 
 
-<img src="hero_.png" alt="Energy Prediction System" width="100%"/>
+<img src="main.png" alt="Energy Prediction System" width="100%"/>
 <div align="center">
 
 **`Software Engineer | AI Enthusiast | Machine Learning Developer`**
