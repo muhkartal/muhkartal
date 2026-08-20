@@ -13,12 +13,6 @@ Building intelligent systems with Machine Learning and Deep Learning, with a str
 
 ---
 
-### 🚀 **About Me**
-
-- **AI Developer Intern** at **Haliç University**, focused on advanced **Computer Vision** projects.
-- **Former Technology Leader** at **Google Developer Student Club Haliç**, where I organized and led workshops for university students.
-- **Project Leader** for **Teknofest** and **TÜBİTAK 2209-A** competitions, driving solutions in **air defense** and other cutting-edge tech areas.
-
 ---
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
